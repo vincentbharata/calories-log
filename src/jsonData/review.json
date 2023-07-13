@@ -1,0 +1,22 @@
+{
+    "review" : [
+            {
+                "id" : 1,
+                "username" : "Alexander Sutomo",
+                "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, rhoncus nec vulputate gravida, volutpat vitae ipsum. Sed sed massa dui. Vestibulum vestibulum, urna vel semper suscipit, leo lorem condimentum leo, vel porttitor arcu lorem at augue. Maecenas gravida nisi purus, congue scelerisque ipsum faucibus eget. Ut eleifend molestie diam, sed vehicula nulla aliquam id.",
+                "rate": 4.5
+            },
+            {
+                "id" : 2,
+                "username": "Putri Lestari",
+                "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, rhoncus nec vulputate gravida, volutpat vitae ipsum. Sed sed massa dui. Vestibulum vestibulum, urna vel semper suscipit, leo lorem condimentum leo, vel porttitor arcu lorem at augue. Maecenas gravida nisi purus, congue scelerisque ipsum faucibus eget. Ut eleifend molestie diam, sed vehicula nulla aliquam id.",
+                "rate": 5
+            },
+            {
+                "id" : 3,
+                "username": "Dewi Wijaya",
+                "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, rhoncus nec vulputate gravida, volutpat vitae ipsum. Sed sed massa dui. Vestibulum vestibulum, urna vel semper suscipit, leo lorem condimentum leo, vel porttitor arcu lorem at augue. Maecenas gravida nisi purus, congue scelerisque ipsum faucibus eget. Ut eleifend molestie diam, sed vehicula nulla aliquam id.",
+                "rate" : 4
+            }
+        ]
+}
